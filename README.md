@@ -40,3 +40,8 @@ The project supports the following RISC-V instruction types and operations:
 Reads `code.asm` and generates `code.bin`.
 ```bash
 make asm
+**2. To run the Simulator:**
+Reads '\code.bin and outputs the execution trace to output.
+```bash
+make sim
+
