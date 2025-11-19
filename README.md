@@ -3,12 +3,6 @@
 ## Project Overview
 This project consists of a custom **Assembler** and **Simulator** for a specific subset of the RISC-V Instruction Set Architecture (ISA). The system allows for converting assembly code into binary machine code and simulating its execution to track register and memory states.
 
-## Team Members
-* [cite_start]**2023043** [cite: 1]
-* [cite_start]**2023284** [cite: 1]
-* [cite_start]**2023058** [cite: 1]
-* [cite_start]**2023039** [cite: 1]
-
 ## Features
 
 ### Assembler (`Assembler.py`)
